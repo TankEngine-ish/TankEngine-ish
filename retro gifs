@@ -1,0 +1,11 @@
+class LinkedList:
+    
+    def __init__(self):
+
+    
+    def get(self, index: int) -> int:
+        
+
+    def insertHead(self, val: int) -> None:
+        
+
