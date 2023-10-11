@@ -17,7 +17,9 @@
 Have a wonderful day!
 </p>
 <br />
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ;![dolphinsplay](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/037290d9-6a56-4d4e-bd03-b39d54243120)
+
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![dolphinsplay](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/970592bf-3e12-4ccc-81b1-0763b8ac6630)
+
 
 <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=157178&s=16' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com'></div>
 
