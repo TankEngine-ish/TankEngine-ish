@@ -1,5 +1,8 @@
+
 <p align="center">
-![ciq60593](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/6019c03b-e938-4eab-b3ae-bfca9d0e0f68)
+
+![ciq60593](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/0d012ea0-b2b6-44ff-b1be-2ec4d232394e)
+
 </p>
 
 
@@ -19,7 +22,7 @@
 <br />
 
 <p align="center">
-Endless curiosity and a mighty work ethic!
+<strong>Endless curiosity and a mighty work ethic!</strong>
 </p>
 
 <br />
@@ -40,12 +43,16 @@ Have a wonderful day!
 <br />
 <br />
 <br />
-<p align="center">
 
+<p align="center">
+  <img src="![dolphinsplay](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/57adfa57-a95c-4d50-a772-437082d036e7)" alt="animated" />
 </p>
 
 <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=157178&s=16' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com'></div>
- 
- <p align="center">
-![safewave](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/d8ecba77-0cf1-4e2e-a111-bf3c7248d33a)
+
+
+
+<p align="center">
+  <img src="![safewave](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/6ff06c56-98b1-4dc1-97a3-8519493fe626)
+" alt="animated" />
 </p>
