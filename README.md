@@ -29,10 +29,10 @@ Have a wonderful day!
 <br />
 
 
-
-
-  ![dolphinsplay](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/037290d9-6a56-4d4e-bd03-b39d54243120)
-
+<div align='center'>
+   
+![dolphinsplay](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/037290d9-6a56-4d4e-bd03-b39d54243120)
+</div>
 
 
 
