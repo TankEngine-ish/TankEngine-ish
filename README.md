@@ -6,7 +6,6 @@
 </img>
 
 <br />
-<br />
 
 <img align="center">
 
@@ -16,10 +15,6 @@
 
 
 <h2 align="center" style="font-size: 20px"> ~ 📇 Nice to meet you! 📇 ~</h2>
-<br />
-<br />
-
-<br />
 <br />
 
 <p align="center">
@@ -38,7 +33,6 @@ Have a wonderful day!
 <img align="center">
 
 ![dolphinsplay](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/037290d9-6a56-4d4e-bd03-b39d54243120)
-
 
 
 </img>
