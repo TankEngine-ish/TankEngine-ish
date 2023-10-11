@@ -1,7 +1,5 @@
-<p align="center">
-	
-![ciq60593](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/0d012ea0-b2b6-44ff-b1be-2ec4d232394e)
-</p>
+   ![ciq60593](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/0d012ea0-b2b6-44ff-b1be-2ec4d232394e)
+
 
 
 
