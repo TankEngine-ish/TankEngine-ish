@@ -1,4 +1,8 @@
-&emsp; &emsp; &emsp; &emsp;  ![ciq60593](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/0d012ea0-b2b6-44ff-b1be-2ec4d232394e)
+<p align="center">
+	
+![ciq60593](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/0d012ea0-b2b6-44ff-b1be-2ec4d232394e)
+</p>
+
 
 
 
@@ -29,7 +33,7 @@ Have a wonderful day!
 
 
 
-&emsp; &emsp; &emsp; &emsp;   ![dolphinsplay](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/037290d9-6a56-4d4e-bd03-b39d54243120)
+  ![dolphinsplay](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/037290d9-6a56-4d4e-bd03-b39d54243120)
 
 
 
