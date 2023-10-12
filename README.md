@@ -28,5 +28,4 @@ Have a wonderful day!
 <br />
 
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  ![safewave](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/c391e676-ee21-4dc9-b8a0-483466be4849)
 
