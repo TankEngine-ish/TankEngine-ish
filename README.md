@@ -9,9 +9,8 @@
 <br />
 
 <p align="center">
-![Alt text](usSfPRM.gif)
+  <img src="hoffman.gif" alt="animated" />
 </p>
-
 <br />
 
 <p align="center">
