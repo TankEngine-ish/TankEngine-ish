@@ -16,7 +16,7 @@
 <br />
 
 <p align="center">
-Powered by <img src ="fire.gif" alt ="endless"/>
+**Powered by endless curiosity.**
 </p>
 <br />
 <br />
@@ -25,17 +25,22 @@ Powered by <img src ="fire.gif" alt ="endless"/>
 
 <h2 align="center" style="font-size: 20px"> ~ 📝 Get in touch... touch, I remember touch 📝 ~</h2>
 
+<br />
+<br />
+<br />
+
 <img align="right" alt="GIF" src="daftPunk.gif">
 
-
-
-
-
 <br />
-
 <br />
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
