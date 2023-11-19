@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-<strong>Endless curiosity and a mighty work ethic!</strong>
+![Alt text](usSfPRM.gif)
 </p>
 
 <br />
