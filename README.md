@@ -5,17 +5,34 @@
 &emsp; &emsp; &emsp; &emsp; &emsp; ![greet](https://github.com/TankEngine-ish/TankEngine-ish/assets/131184681/41030361-5ccb-4c7f-b076-5280e7797da5)
 
 
-<h2 align="center" style="font-size: 20px"> ~ 📇 Nice to meet you! 📇 ~</h2>
+<h2 align="center" style="font-size: 30px"> ~ 📇 Nice to meet you! 📇 ~</h2>
 <br />
 
 <p align="center">
   <img src="hoffman.gif" alt="animated" />
 </p>
 <br />
+<br />
+<br />
 
 <p align="center">
-Have a wonderful day!
+Powered by <img src ="fire.gif" alt ="endless"/>
 </p>
+<br />
+<br />
+<br />
+
+
+<h2 align="center" style="font-size: 20px"> ~ 📝 Get in touch... touch, I remember touch 📝 ~</h2>
+
+<img align="right" alt="GIF" src="daftPunk.gif">
+
+
+
+
+
+<br />
+
 <br />
 
 
