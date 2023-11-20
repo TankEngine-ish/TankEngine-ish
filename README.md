@@ -15,7 +15,7 @@
 <br />
 
 <p align="center">
-  <img src="textcheto.gif" alt="animated" />
+  <img src="text.gif" alt="animated" />
 </p>
 
 
