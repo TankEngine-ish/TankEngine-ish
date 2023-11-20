@@ -14,9 +14,9 @@
 <br />
 <br />
 
-<p align="center">
+<h2 align="center">
 ### Powered by endless curiosity.
-</p>
+</h2>
 <br />
 
 <h2 align="center" style="font-size: 20px"> ~ 📝 Get in touch... touch, I remember touch 📝 ~</h2>
