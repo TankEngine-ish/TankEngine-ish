@@ -15,7 +15,7 @@
 <br />
 
 <p align="center">
-  <img src="text(1).gif" alt="animated" />
+  <img src="txtt.gif" alt="animated" />
 </p>
 
 
