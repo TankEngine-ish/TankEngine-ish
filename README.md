@@ -13,15 +13,11 @@
 </p>
 <br />
 <br />
-<br />
 
 <p align="center">
-**Powered by endless curiosity.**
+###Powered by endless curiosity.###
 </p>
 <br />
-<br />
-<br />
-
 
 <h2 align="center" style="font-size: 20px"> ~ 📝 Get in touch... touch, I remember touch 📝 ~</h2>
 
@@ -43,6 +39,9 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+
 
 
 <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=157178&s=16' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com'></div>
