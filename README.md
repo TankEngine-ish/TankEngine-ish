@@ -14,8 +14,11 @@
 <br />
 <br />
 
+<p align="center">
+  <img src="text.gif" alt="animated" />
+</p>
 
-### Powered by endless curiosity
+
 
 
 <br />
