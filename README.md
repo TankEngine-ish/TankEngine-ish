@@ -14,9 +14,9 @@
 <br />
 <br />
 
-<p align="center">
-**Powered by endless curiosity**
-</p>
+
+### Powered by endless curiosity
+
 
 <br />
 
