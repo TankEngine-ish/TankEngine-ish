@@ -9,6 +9,11 @@
 <br />
 
 <p align="center">
+- <i> I am a writer, a doctor, a nuclear physicist and a theoretical philosopher.</i>
+</p>
+<br />
+
+<p align="center">
   <img src="hoffman.gif" alt="animated" />
 </p>
 <br />
