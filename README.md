@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-- <i><h2> I am a writer, a doctor, a nuclear physicist and a theoretical philosopher.</i></h2>
+- <i> **I am a writer, a doctor, a nuclear physicist and a theoretical philosopher.**</i>
 </p>
 <br />
 
