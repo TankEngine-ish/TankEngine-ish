@@ -39,9 +39,8 @@
 <br />
 <br />
 <br />
-
-<img alt="Globe" height="100" src="globe.gif">
 </a>
+<img alt="Globe" height="100" src="globe.gif">
 </p>
 </td>
 
