@@ -32,18 +32,25 @@
 
 <h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I do? 📝 ~</h2>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
+<a href="https://google.com">
+<strong>Check my Internet page then! </strong>
 <br />
 <br />
 <br />
 
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+<img alt="Globe" height="80" src="globe.gif">
 </a>
 </p>
 
@@ -52,7 +59,7 @@
 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
+<strong>You can even add me on Steam!</strong>
 <br />
 <br />
 
