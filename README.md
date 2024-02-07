@@ -30,9 +30,9 @@
 
 <h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I do? 📝 ~</h2>
 
-<table width="100%" align="center">
+<table width="100%" align="left">
 <tr>
-<td align="center">
+<td align="left">
 <a href="https://google.com">
 <strong>Visit my silly Internet page!</strong>
 <br />
@@ -67,8 +67,8 @@
 <br />
 
 
-<div class = "footer">
+
 <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=157178&s=16' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com'></div>
-</div>
+
 
 
