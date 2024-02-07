@@ -30,7 +30,7 @@
 
 <h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I do? 📝 ~</h2>
 
-<table width="100%" align="center">
+<table width="100%" align="left">
 <tr>
 <td align="center">
 <a href="https://google.com">
@@ -40,7 +40,6 @@
 <br />
 
 <p>
-
 <img alt="Globe" height="80" src="globe.gif">
 </a>
 </p>
