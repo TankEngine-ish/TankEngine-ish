@@ -23,13 +23,15 @@
   <img src="txtt.gif" alt="animated" />
 </p>
 
-
-
-
 <br />
 
+
+
+
+
+
 <h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I do? 📝 ~</h2>
-<div class = "row">
+
 <table width="100%" align="left">
 <tr>
 <td align="center">
@@ -66,13 +68,11 @@
 <br />
 <br />
 
-</div>
 
-
-<p align="center">
+<img align="center">
   <a href='https://www.free-website-hit-counter.com'>
     <img src='https://www.free-website-hit-counter.com/c.php?d=9&id=157178&s=16' border='0' alt='Free Website Hit Counter'>
   </a>
-</p>
+</img>
 
 
