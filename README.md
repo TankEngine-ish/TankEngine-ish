@@ -32,47 +32,23 @@
 
 <h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I do? 📝 ~</h2>
 
-<table width="100%" align="left">
-<tr>
-<td align="center">
-<p>
-<a href="https://google.com">
-<strong>Visit my silly Internet page!</strong>
-<br />
-<br />
-<br />
-</a>
-<img alt="Globe" height="100" src="globe.gif">
+<p align="center">
+  <a href="https://google.com">
+    <strong>Visit my silly Internet page!</strong>
+  </a>
+  <img alt="Globe" height="80" src="globe.gif">
 </p>
-</td>
 
+<p align="center">
+  <a href="https://daftpunk.com">
+    <strong>Visit Daft Punk's page!</strong>
+  </a>
+  <img alt="Daft Punk" height="80" src="daftpunk.gif">
+</p>
 
-<br />
-<br />
-<br />
-
-<img align="right" alt="GIF" src="daftPunk.gif">
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
+<!-- Counter goes here -->
 <p align="center">
   <a href='https://www.free-website-hit-counter.com'>
     <img src='https://www.free-website-hit-counter.com/c.php?d=9&id=157178&s=16' border='0' alt='Free Website Hit Counter'>
   </a>
 </p>
-
-
