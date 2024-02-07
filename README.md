@@ -32,7 +32,7 @@
 
 <table width="100%" align="left">
 <tr>
-<td align="left">
+<td align="center">
 <a href="https://google.com">
 <strong>Visit my silly Internet page!</strong>
 <br />
@@ -40,7 +40,7 @@
 <br />
 
 <p>
-<img alt="Globe" height="80" src="globe.gif">
+<img alt="Globe" height="100" src="globe.gif">
 </a>
 </p>
 </td>
