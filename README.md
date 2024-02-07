@@ -29,7 +29,7 @@
 
 <h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I do? 📝 ~</h2>
 
-<div style="display: flex; justify-content: center;">
+<div style="width: 100%; display: flex; justify-content: center;">
   <table>
     <tr>
       <td align="center">
@@ -64,7 +64,7 @@
 </div>
 
 <!-- Counter goes here -->
-<div style="display: flex; justify-content: center; margin-top: 50px;">
+<div style="width: 100%; display: flex; justify-content: center; margin-top: 50px;">
   <a href='https://www.free-website-hit-counter.com'>
     <img src='https://www.free-website-hit-counter.com/c.php?d=9&id=157178&s=16' border='0' alt='Free Website Hit Counter'>
   </a>
