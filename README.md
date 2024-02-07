@@ -31,20 +31,40 @@
 
 
 <h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I do? 📝 ~</h2>
+
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://brunnerliv.io">
+<strong>Visit my personal website </strong>
 <br />
 <br />
 <br />
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="https://google.com">
-        <strong>Visit my silly Internet page!</strong>
-      </a>
-      <br />
-      <img alt="Globe" height="80" src="globe.gif">
-    </td>
+<p>
 
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
+</p>
+
+</td>
+
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 <br />
 <br />
 <br />
