@@ -41,6 +41,10 @@
 <td align="center">
 <a href="https://google.com">
 <strong>Check my Internet page then! </strong>
+
+<br />
+<br />
+
 <p>
 
 <img alt="Globe" height="100" src="clickmouse.gif">
