@@ -33,17 +33,18 @@
 <table width="100%" align="left">
 <tr>
 <td align="center">
+<p>
 <a href="https://google.com">
 <strong>Visit my silly Internet page!</strong>
 <br />
 <br />
 <br />
 
-<p>
 <img alt="Globe" height="100" src="globe.gif">
 </a>
 </p>
 </td>
+
 
 <br />
 <br />
