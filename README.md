@@ -28,7 +28,24 @@
 
 <br />
 
-<h2 align="center" style="font-size: 20px"> ~ 📝 Get in touch... touch, I remember touch 📝 ~</h2>
+<h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I do? 📝 ~</h2>
+
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://google.com">
+<strong>Visit my silly Internet page!</strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="globe.gif">
+</a>
+</p>
+
+</td>
 
 <br />
 <br />
