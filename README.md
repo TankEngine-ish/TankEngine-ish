@@ -34,9 +34,6 @@
 
 <br />
 <br />
-<br />
-<br />
-<br />
 
 
 <table width="100%" align="center">
@@ -44,13 +41,9 @@
 <td align="center">
 <a href="https://google.com">
 <strong>Check my Internet page then! </strong>
-<br />
-<br />
-<br />
-
 <p>
 
-<img alt="Globe" height="80" src="globe.gif">
+<img alt="Globe" height="100" src="clickmouse.gif">
 </a>
 </p>
 
@@ -58,14 +51,14 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://steamcommunity.com/profiles/76561198015227442/">
 <strong>You can even add me on Steam!</strong>
 <br />
 <br />
 
 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<img height="100" alt="gaming" src="disc.gif"> 
 </a>
 </p>
 
@@ -74,12 +67,7 @@
 </table>
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 
 <!-- Counter goes here -->
 <p align="center">
