@@ -29,7 +29,7 @@
 <br />
 
 <h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I do? 📝 ~</h2>
-
+<div class = "row">
 <table width="100%" align="left">
 <tr>
 <td align="center">
@@ -65,6 +65,8 @@
 <br />
 <br />
 <br />
+
+</div>
 
 
 <p align="center">
