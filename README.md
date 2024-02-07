@@ -32,19 +32,24 @@
 
 <h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I do? 📝 ~</h2>
 
-<p align="center">
-  <a href="https://google.com">
-    <strong>Visit my silly Internet page!</strong>
-  </a>
-  <img alt="Globe" height="80" src="globe.gif">
-</p>
-
-<p align="center">
-  <a href="https://daftpunk.com">
-    <strong>Visit Daft Punk's page!</strong>
-  </a>
-  <img alt="Daft Punk" height="80" src="daftpunk.gif">
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://google.com">
+        <strong>Visit my silly Internet page!</strong>
+      </a>
+      <br />
+      <img alt="Globe" height="80" src="globe.gif">
+    </td>
+    <td align="right">
+      <a href="https://daftpunk.com">
+        <strong>Visit Daft Punk's page!</strong>
+      </a>
+      <br />
+      <img alt="Daft Punk" height="80" src="daftpunk.gif">
+    </td>
+  </tr>
+</table>
 
 <!-- Counter goes here -->
 <p align="center">
