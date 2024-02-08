@@ -30,7 +30,7 @@
 
 
 
-<h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I do? 📝 ~</h2>
+<h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I actually do? 📝 ~</h2>
 
 <br />
 <br />
