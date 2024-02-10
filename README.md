@@ -40,7 +40,7 @@
 <tr>
 <td align="center">
 <a href="https://google.com">
-<strong>Check my Internet page then! </strong>
+<strong>Check out my page on the Internet! </strong>
 
 <br />
 <br />
