@@ -12,9 +12,8 @@
 <h2 align="center" style="font-size: 30px"> ~ 📇 Nice to meet you! 📇 ~</h2>
 <br />
 
-<p align="center" style="font-size: 24px;">
-- <i><b> I am a writer, a doctor, a nuclear physicist and a theoretical philosopher.</i></b>
-</p>
+<h3 p align="center" >
+- <i><b> I am a writer, a doctor, a nuclear physicist and a theoretical philosopher.</i></b></h3>
 <br />
 
 <p align="center">
