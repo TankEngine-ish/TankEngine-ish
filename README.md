@@ -1,4 +1,4 @@
-&emsp; &emsp; &emsp; &emsp; &emsp;  ![aide](/home/nito/TankEngine-ish/intro.png)
+&emsp; &emsp; &emsp; &emsp; &emsp;  ![aide](https://github.com/TankEngine-ish/TankEngine-ish/blob/main/intro.png)
 
 
 
