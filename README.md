@@ -36,7 +36,7 @@
 <h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I actually do? 📝 ~</h2>
 
 <h3 >
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b> Check out some of my modest achievements.</b></h3>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b> 🧐 Check out some of my modest achievements.</b></h3>
 <br />
 
 ![alt text](aws-certified-cloud-practitioner.png)
