@@ -44,7 +44,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://google.com">
+<a href="https://www.credly.com/users/plamen-dimitrov.a05b6580">
 <strong>Check out my Credly Profile! </strong> 
 
 <br />
