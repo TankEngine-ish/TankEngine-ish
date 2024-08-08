@@ -38,6 +38,8 @@
 <br />
 <br />
 
+- <i><b> Check out some of my modest achievements.</i></b></h3>
+
 
 <table width="100%" align="center">
 <tr>
