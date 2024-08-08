@@ -38,9 +38,9 @@
 <br />
 
 <h3 >
-&emsp; &emsp; &emsp; &emsp; &emsp; <i><b> I am a writer, a doctor, a nuclear physicist and a theoretical philosopher.</i></b></h3>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<i><b> I am a writer, a doctor, a nuclear physicist and a theoretical philosopher.</i></b></h3>
 
-![aws_cert](aws-certified-cloud-practitioner.png)
+![aws_cert](aws-certified-cloud-practitioner(180x180).png)
 
 <table width="100%" align="center">
 <tr>
