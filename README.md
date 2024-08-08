@@ -35,18 +35,16 @@
 
 <h2 align="center" style="font-size: 20px"> ~ 📝 Wanna know what I actually do? 📝 ~</h2>
 
-<br />
-
 <h3 >
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<i><b> I am a writer, a doctor, a nuclear physicist and a theoretical philosopher.</i></b></h3>
 
-![aws_cert](aws-certified-cloud-practitioner(180x180).png)
+![aws_cert](aws-certified-cloud-practitioner.png)
 
 <table width="100%" align="center">
 <tr>
 <td align="center">
 <a href="https://google.com">
-<strong>Check out my CV! </strong>
+<strong>Check out my CV! </strong> 
 
 <br />
 <br />
