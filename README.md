@@ -45,7 +45,7 @@
 <tr>
 <td align="center">
 <a href="https://google.com">
-<strong>Check out my CV! </strong> 
+<strong>Check out my Credly Profile! </strong> 
 
 <br />
 <br />
