@@ -59,32 +59,23 @@
 </td>
 
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://steamcommunity.com/profiles/76561198015227442/" target="_blank">
-        <strong>You can even add me on Steam!</strong>
-        <br />
-        <br />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <p>
-        <img height="100" alt="gaming" src="disc.gif">
-      </p>
-    </td>
-  </tr>
-</table>
+<td align="center">
+<a href="https://steamcommunity.com/profiles/76561198015227442/">
+<strong>You can even add me on Steam!</strong>
 <br />
 <br />
 
-<p align="center">
-  <a href='https://www.free-website-hit-counter.com'>
-    <img src='https://www.free-website-hit-counter.com/c.php?d=9&id=157178&s=16' border='0' alt='Free Website Hit Counter'>
-  </a>
+
+<p>
+<img height="100" alt="gaming" src="disc.gif"> 
+</a>
 </p>
+
+</td>
+</tr>
+</table>
+<br />
+<br />
 
 
 <!-- Counter goes here -->
