@@ -60,10 +60,12 @@
 
 
 <td align="center">
-<a href="https://steamcommunity.com/profiles/76561198015227442/">
-<strong>You can even add me on Steam!</strong>
-<br />
-<br />
+  <a href="https://steamcommunity.com/profiles/76561198015227442/" target="_blank">
+    <strong>You can even add me on Steam!</strong>
+    <br />
+    <br />
+  </a>
+</td>
 
 
 <p>
