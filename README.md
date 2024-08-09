@@ -67,10 +67,8 @@
   </a>
 </td>
 
-
 <p>
-<img height="100" alt="gaming" src="disc.gif"> 
-</a>
+  <img height="100" alt="gaming" src="disc.gif">
 </p>
 
 </td>
