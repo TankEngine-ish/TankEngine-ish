@@ -41,6 +41,10 @@
 
 ![alt text](aws-certified-cloud-practitionerr.png) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  ![alt text](kcna-kubernetes-and-cloud-native-associate.png)
 
+&emsp; 
+&emsp; 
+&emsp;
+
 <table width="100%" align="center">
 <tr>
 <td align="center">
