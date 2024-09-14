@@ -39,7 +39,7 @@
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b> 🧐 Check out some of my modest achievements.</b></h3>
 <br />
 
-![alt text](aws-certified-cloud-practitioner.png)      ![alt text](kcna-kubernetes-and-cloud-native-associate.png)
+![alt text](aws-certified-cloud-practitioner.png) &emsp; &emsp; &emsp;   ![alt text](kcna-kubernetes-and-cloud-native-associate.png)
 
 <table width="100%" align="center">
 <tr>
