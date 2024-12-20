@@ -39,7 +39,7 @@
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b> Check out some of my modest achievements. 🧐 </b></h3>
 <br />
 
-![alt text](aws-certified-cloud-practitionerr.png) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  ![alt text](kcna-kubernetes-and-cloud-native-associate.png) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+![alt text](aws-certified-cloud-practitionerr.png) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  ![alt text](kcna-kubernetes-and-cloud-native-associate.png) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![alt text](<hashicorp-certified-terraform-associate-003 (1).png>)
 
 &emsp; 
 &emsp; 
