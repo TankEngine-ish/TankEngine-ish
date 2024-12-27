@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <img src="hoffman.gif" alt="animated" />
+  <img src="idea.jpg" alt="animated" />
 </p>
 <br />
 <br />
