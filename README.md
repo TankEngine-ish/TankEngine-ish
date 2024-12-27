@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <img src="idea.jpg" alt="animated" />
+  <img src="idea.jpg" alt="animated" width="200" height="200"/>
 </p>
 <br />
 <br />
