@@ -13,7 +13,7 @@
 <br />
 
 <h3 p align="center" >
-- <i><b> I am a writer, a doctor, a nuclear physicist and a theoretical philosopher.</i></b></h3>
+- <i><b> I am a crashing-down have-not and an aspiring job-haver.</i></b></h3>
 <br />
 
 <p align="center">
@@ -22,14 +22,15 @@
 <br />
 <br />
 
+<i><b> But even still, I am--</i></b></h3>
+
+<br />
+
 <p align="center">
   <img src="txtt.gif" alt="animated" />
 </p>
 
 <br />
-
-
-
 
 
 
