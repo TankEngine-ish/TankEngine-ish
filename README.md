@@ -13,7 +13,7 @@
 <br />
 
 <h3 p align="center" >
-- <i><b> I am a crashing-down have-not and an aspiring job-haver.</i></b></h3>
+- <i><b> Too late to back out now. You can't make an omelette without breaking a few million eggs!</i></b></h3>
 <br />
 
 <p align="center">
@@ -22,6 +22,7 @@
 <br />
 <br />
 
+<!-- 
 <i><b> But even still, I am--</i></b></h3>
 
 <br />
@@ -30,7 +31,7 @@
   <img src="txtt.gif" alt="animated" />
 </p>
 
-<br />
+<br /> -->
 
 
 
