@@ -13,7 +13,7 @@
 <br />
 
 <h3 p align="center" >
-- <i><b> :pill::stethoscope: I suffer from a severe case of autodidactism! Poor me...:adhesive_bandage::drop_of_blood:</i></b></h3>
+<i><b>   :pill::stethoscope: I suffer from a severe case of autodidactism!:adhesive_bandage::drop_of_blood:</i></b></h3>
 <br />
 
 <p align="center">
