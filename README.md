@@ -52,7 +52,7 @@
 &emsp; 
 &emsp;
 
-<h3 ><b> When I'm not debugging k8s I am using these:</b></h3>
+<h3>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<b> When I'm not debugging k8s I am using these:</b></h3>
 &emsp; 
 &emsp;
 
