@@ -55,8 +55,6 @@
 <h3 >
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b> When I'm not debugging K8s clusters I am using these: </b></h3>
 
-&emsp;
-
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TankEngine-ish&layout=compact&langs_count=10&exclude_repo=human_organs_ai_segmentation,dental_clinic_website,space_exploration_full_stack_app)
 
 
