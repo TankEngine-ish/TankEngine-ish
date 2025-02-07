@@ -41,16 +41,14 @@
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b> Check out some of my modest achievements. 🧐 </b></h3>
 <br />
 
-![alt text](aws-certified-cloud-practitionerr.png) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![alt text](kcna-kubernetes-and-cloud-native-associate.png) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![alt text](<hashicorp-certified-terraform-associate-003 (1).png>)
+![alt text](aws-certified-cloud-practitionerr.png) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  ![alt text](kcna-kubernetes-and-cloud-native-associate.png) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![alt text](<hashicorp-certified-terraform-associate-003 (1).png>)
 
 &emsp; 
 &emsp; 
 &emsp;
-&emsp;
-&emsp;
 
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TankEngine-ish&layout=compact&langs_count=10&exclude_repo=human_organs_ai_segmentation,dental_clinic_website,space_exploration_full_stack_app)
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TankEngine-ish&layout=compact&langs_count=10&exclude_repo=human_organs_ai_segmentation,dental_clinic_website,space_exploration_full_stack_app)
 
 
 
