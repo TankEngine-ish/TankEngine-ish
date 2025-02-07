@@ -47,6 +47,10 @@
 &emsp; 
 &emsp;
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TankEngine-ish&layout=compact&langs_count=10)
+
+
 <table width="100%" align="center">
 <tr>
 <td align="center">
