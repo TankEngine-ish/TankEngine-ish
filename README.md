@@ -48,7 +48,8 @@
 &emsp;
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TankEngine-ish&layout=compact&langs_count=10)
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TankEngine-ish&layout=compact&langs_count=10&exclude_repo=human_organs_ai_segmentation)
+
 
 
 <table width="100%" align="center">
