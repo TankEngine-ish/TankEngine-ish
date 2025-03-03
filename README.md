@@ -96,7 +96,7 @@
 <br />
 <br />
 
-![alt text](no-git-regrets-3-3-2025.gif)
+![alt text](no-git-regrets-3-3-2025.png)
 
 <br />
 <br />
