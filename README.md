@@ -96,11 +96,7 @@
 <br />
 <br />
 
-![alt text](no-git-regrets-3-3-2025.png)
-
-<br />
-<br />
-
+<!-- ![alt text](no-git-regrets-3-3-2025.png) -->
 
 <!-- Counter goes here -->
 <p align="center">
