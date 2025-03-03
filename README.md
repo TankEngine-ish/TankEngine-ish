@@ -96,6 +96,11 @@
 <br />
 <br />
 
+![alt text](no-git-regrets-3-3-2025.gif)
+
+<br />
+<br />
+
 
 <!-- Counter goes here -->
 <p align="center">
