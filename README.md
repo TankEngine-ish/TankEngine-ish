@@ -96,5 +96,5 @@
 
 <!-- Counter goes here -->
 <p align="center">
-  <img src="https://count.getloli.com/get/@TankEngine-ish?theme=moebooru" alt="LCD Counter" />
+  <img src="https://api.countapi.xyz/hit/TankEngine-ish/readme?style=terminal" alt="Terminal Counter" />
 </p>
