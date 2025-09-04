@@ -95,4 +95,6 @@
 <!-- ![alt text](no-git-regrets-3-3-2025.png) -->
 
 <!-- Counter goes here -->
-![Profile Views](https://komarev.com/ghpvc/?username=TankEngine-ish&color=blue)
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&label=VISITORS&labelColor=%23000000&countColor=%23008000&style=plastic&labelStyle=upper" />
+</p>
