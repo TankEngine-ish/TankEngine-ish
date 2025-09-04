@@ -96,5 +96,8 @@
 
 <!-- Counter goes here -->
 <p align="center">
-  <img src="https://count.getloli.com/get/@YOUR_GITHUB_USERNAME?theme=nixietube-2" alt="Dark Nixie Tube Counter" />
+  <font size="5"><b>You are Visitor Number:</b></font>
+</p>
+<p align="center">
+  <img src="https://count.getloli.com/get/@YOUR_GITHUB_USERNAME?theme=nixietube-2" alt="Nixie Tube Counter" />
 </p>
