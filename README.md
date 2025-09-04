@@ -96,5 +96,5 @@
 
 <!-- Counter goes here -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&fontColor=00ff00&fontSize=20&text=Visitors:%20123456&animation=blinking" />
+  <img src="https://count.getloli.com/get/@YOUR_GITHUB_USERNAME?theme=nixietube-1" alt="Nixie Tube Counter" />
 </p>
