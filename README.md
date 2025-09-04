@@ -96,5 +96,5 @@
 
 <!-- Counter goes here -->
 <p align="center">
-  <img src="https://count.getloli.com/get/@YOUR_GITHUB_USERNAME?theme=gelbooru" alt="90s Style Counter" />
+  <img src="https://count.getloli.com/get/@TankEngine-ish?theme=asoul" alt="Matrix Counter" />
 </p>
