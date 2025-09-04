@@ -96,5 +96,5 @@
 
 <!-- Counter goes here -->
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FTankEngine-ish&label=VISITORS&labelColor=%23000000&countColor=%23008000&style=plastic&labelStyle=upper" />
+  <img src="https://count.getloli.com/get/@TankEngine-ish?theme=moebooru" alt="LCD Counter" />
 </p>
