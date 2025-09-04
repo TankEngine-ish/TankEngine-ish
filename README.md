@@ -96,5 +96,5 @@
 
 <!-- Counter goes here -->
 <p align="center">
-  <img src="https://api.countapi.xyz/hit/TankEngine-ish/readme?style=terminal" alt="Terminal Counter" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&fontColor=00ff00&fontSize=20&text=Visitors:%20123456&animation=blinking" />
 </p>
