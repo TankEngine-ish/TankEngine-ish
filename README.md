@@ -95,8 +95,4 @@
 <!-- ![alt text](no-git-regrets-3-3-2025.png) -->
 
 <!-- Counter goes here -->
-<p align="center">
-  <a href='https://www.free-website-hit-counter.com'>
-    <img src='https://www.free-website-hit-counter.com/c.php?d=9&id=157178&s=16' border='0' alt='Free Website Hit Counter'>
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=TankEngine-ish&color=blue)
