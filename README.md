@@ -48,11 +48,14 @@
 &emsp; 
 &emsp;
 
-<h3>
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b> When I'm not debugging K8s clusters I'm babbling in these: </b>
+<h3 align="center">
+<b>When I'm not debugging K8s clusters I'm babbling in these:</b>
 </h3>
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TankEngine-ish&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TankEngine-ish&theme=default)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TankEngine-ish&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TankEngine-ish&theme=default" />
+</p>
 
 
 
